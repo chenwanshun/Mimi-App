@@ -22,12 +22,20 @@ public final class R {
     }
     public static final class drawable {
         public static final int ic_launcher=0x7f020000;
+        public static final int myinfo_unpressed=0x7f020001;
     }
     public static final class id {
-        public static final int action_settings=0x7f080000;
+        public static final int action_settings=0x7f080005;
+        public static final int btn_mainactivity_testdemo=0x7f080000;
+        public static final int img_contactitem_contacthead=0x7f080002;
+        public static final int listview_contactactivity_showcontact=0x7f080001;
+        public static final int txt_contactitem_contact=0x7f080003;
+        public static final int txt_contantitem_contactphone=0x7f080004;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
+        public static final int contact_activity=0x7f030001;
+        public static final int contact_item_layout=0x7f030002;
     }
     public static final class menu {
         public static final int main=0x7f070000;
